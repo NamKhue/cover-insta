@@ -1,29 +1,4 @@
 {
   "users": [
-    {
-      "email": "admin@dev.com",
-      "password": "$2a$10$v2AMjbOMrqRJUlGmxaUVde2Bx8G82L04dqz4MiKD/U.gY6Ep/sABG",
-      "id": 1
-    },
-    {
-      "email": "admin1@dev.com",
-      "password": "$2a$10$gaAOi2UlzT/9YlyM95MRde4VMD47H8MOpcMpSSckXG7J46BX4C88K",
-      "id": 2
-    },
-    {
-      "email": "admin2@dev.com",
-      "password": "$2a$10$r2xkJM1thTsRqhXJaEP.nedpZZjyOexkZBLso3EvdcJmJfGpi3p.a",
-      "id": 3
-    },
-    {
-      "email": "admin3@dev.com",
-      "password": "$2a$10$QL0swx6GtsxwkBll/NjWjeI/wUl43QJQjwKEolfEUyJMqKKu79xn2",
-      "id": 4
-    },
-    {
-      "email": "admin4@dev.com",
-      "password": "$2a$10$83QtvUI5sRukIy84gBD0fOZr2P5DImtxHkKCmegHFbF5ouePK.ABO",
-      "id": 5
-    }
   ]
 }

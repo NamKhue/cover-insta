@@ -306,10 +306,13 @@ body {
 .user_profile {
 	width: 20px;
 	height: 20px;
-	border-radius: 50%;
-	background-image: url("/assets/img/profile pics/avatar.jpg");
-	background-size: cover;
 	position: relative;
+}
+
+.user_profile img {
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
 }
 
 .wrap__menu {
